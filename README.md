@@ -1,3 +1,6 @@
+Authors: Roberto Hernández Palomares and Lara Ismert
+May 2025
+
 # multi-controlled_unitary_gates
 In this repo, we construct multi-controlled gates using only cx and single-qubit gates through two methods. Both methods take as inputs three angles which implement the unitary gate $U = R_z(\phi)R_y(\theta)R_z(\gamma)$ and an integer $n>2$. 
 
